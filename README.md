@@ -1,6 +1,7 @@
 # 안녕하세요 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Do+Hyeon&duration=2000&pause=1000&color=000000&width=600&lines=%ED%8C%80%EA%B3%BC+%EC%82%AC%EC%9A%A9%EC%9E%90+%EB%AA%A8%EB%91%90%EC%97%90%EA%B2%8C+%EC%A6%90%EA%B1%B0%EC%9A%B4+%EA%B2%BD%ED%97%98%EC%9D%84+%EB%A7%8C%EB%93%9C%EB%8A%94++%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90%2C+%EC%97%BC%EC%8A%B9%EC%95%84%EC%9E%85%EB%8B%88%EB%8B%A4%E2%98%BA%EF%B8%8F)](https://git.io/typing-svg)
 
+</br>
 
 ## 🌱 About Me
 저는 **끊임없이 배우고, 함께 성장하는 과정**을 소중히 여기는 프론트엔드 개발자입니다.  
@@ -15,9 +16,9 @@
 
 ## 📫 Contact Me
 
-- 📧 **Email** : [ysa2780@naver.com](mailto:ysa2780@naver.com)  
-- ✍️ **Blog** : [kenco.tistory.com](https://kenco.tistory.com/)  
-- 💜 **Portfolio** : 제작 중… -ing  
+-  **Email**  [ysa2780@naver.com](mailto:ysa2780@naver.com)  
+-  **Blog**  [kenco.tistory.com](https://kenco.tistory.com/)  
+-  **Portfolio**  제작 중… -ing  
 
 </br>
 
@@ -44,10 +45,5 @@
 
 ## 📊 GitHub Stats
 <div align="left">
-  <span>
     <img src="https://github-readme-stats.vercel.app/api?username=yeom-kenco&show_icons=true&theme=Vue" height="160"/>
-  </span>
-  <span>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeom-kenco&layout=compact&theme=Vue" height="160"/>
-  </span>
 </div>
