@@ -44,6 +44,4 @@
 </br>
 
 ## 📊 GitHub Stats
-<div align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=yeom-kenco&show_icons=true&theme=Vue" height="160"/>
-</div>
+![Seungah's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeom-kenco&show_icons=true&theme=Vue)
