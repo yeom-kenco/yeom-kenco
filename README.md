@@ -19,7 +19,7 @@
 
 -  **Email**  [ysa2780@naver.com](mailto:ysa2780@naver.com)  
 -  **Blog**  [kenco.tistory.com](https://kenco.tistory.com/)  
--  **Portfolio**  제작 중… -ing  
+-  **Portfolio**  [yeom-portfolio](https://yeom-kenco.github.io/yeom-portfolio/)
 
 </br>
 
