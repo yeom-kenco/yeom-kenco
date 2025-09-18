@@ -45,5 +45,3 @@
 
 </br>
 
-## 📊 GitHub Stats
-![Seungah's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeom-kenco&show_icons=true&theme=Vue)
